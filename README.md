@@ -15,29 +15,28 @@
 <p align="center"> <a href="https://twitter.com/varun9873" target="blank"><img
                         src="https://img.shields.io/twitter/follow/varun9873?logo=twitter&style=for-the-badge"
                         alt="varun9873" /></a> </p>
-        <p align="center">
-                - 🔭 I’m currently working on **Something great , Will let you know soon....**
-                </br>
-                - 🌱 I’m currently learning **Data Structures and Algorithm, React Native etc.**
-                </br>
-                - 👯 I’m looking to collaborate on **some great projects.**
-                </br>
-                - 🤝 I’m looking for help with **not right now but whenever i need i'll put it on my profile.**
-                </br>
-                - 👨‍💻 All of my projects are available at
-                [https://varunportfolio98.herokuapp.com/](https://varunportfolio98.herokuapp.com/)
-                </br>
-                - 💬 Ask me about **Reacts.js , Python ,C++**
-                </br>
-                - 📫 How to reach me **kumarvarun9811@gmail.com**
-                </br>
-                - 📄 Know about my experiences
-                [https://drive.google.com/file/d/11lh2bisd_xakmteRH2n3hPW7duHdWysa/view](https://drive.google.com/file/d/11lh2bisd_xakmteRH2n3hPW7duHdWysa/view)
-                </br>
-                - ⚡ Fun fact **Love to play cricket and i'm quite funny too.**
-                </br>
-        </p>
-
+<p align="center">
+        - 🔭 I’m currently working on **Something great , Will let you know soon....**
+        </br>
+        - 🌱 I’m currently learning **Data Structures and Algorithm, React Native etc.**
+        </br>
+        - 👯 I’m looking to collaborate on **some great projects.**
+        </br>
+        - 🤝 I’m looking for help with **not right now but whenever i need i'll put it on my profile.**
+        </br>
+        - 👨‍💻 All of my projects are available at
+        [https://varunportfolio98.herokuapp.com/](https://varunportfolio98.herokuapp.com/)
+        </br>
+        - 💬 Ask me about **Reacts.js , Python ,C++**
+        </br>
+        - 📫 How to reach me **kumarvarun9811@gmail.com**
+        </br>
+        - 📄 Know about my experiences
+        [https://drive.google.com/file/d/11lh2bisd_xakmteRH2n3hPW7duHdWysa/view](https://drive.google.com/file/d/11lh2bisd_xakmteRH2n3hPW7duHdWysa/view)
+        </br>
+        - ⚡ Fun fact **Love to play cricket and i'm quite funny too.**
+        </br>
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
         <a href="https://twitter.com/varun9873" target="blank"><img align="center"
@@ -65,7 +64,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-        <a href="https://babeljs.io/" target="_blank">
+        <a  href="https://babeljs.io/" target="_blank">
                 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40"
                         height="40" />
         </a>
@@ -183,13 +182,13 @@
 
 </p>
 
-<p align="center"><img align="center"
+<p align="center"><img 
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarnurav9811&show_icons=true&locale=en&layout=compact"
                 alt="kumarnurav9811" /></p>
 
-<p align="center">&nbsp;<img align="center"
+<p align="center">&nbsp;<img 
                 src="https://github-readme-stats.vercel.app/api?username=kumarnurav9811&show_icons=true&locale=en"
                 alt="kumarnurav9811" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarnurav9811&"
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarnurav9811&"
                 alt="kumarnurav9811" /></p>
