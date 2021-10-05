@@ -8,8 +8,8 @@
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarnurav9811" alt="kumarnurav9811" /></a> </p>
 <br>
-<p align="center"> <a href="https://twitter.com/varun9873" target="blank"><img src="https://img.shields.io/twitter/follow/varun9873?logo=twitter&style=for-the-badge" alt="varun9873" /></a> </p>
-<br>
+<p align="center"> <a href="https://twitter.com/varun9873" target="blank"><img src="https://img.shields.io/twitter/follow/varun9873?logo=twitter&style=for-the-badge" alt="varun9873" /></a> </p><br>
+
 - 🔭 I’m currently working on **Something great , Will let you know soon....**
 
 - 🌱 I’m currently learning **Data Structures and Algorithm, React Native etc.**
