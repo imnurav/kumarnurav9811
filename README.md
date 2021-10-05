@@ -2,7 +2,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-                width="30px">I'm Varun Kumar</h1><br>
+                width="30px">  I'm Varun Kumar</h1><br>
 <h3 align="center">A passionate developer from India</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kumarnurav9811&label=Profile%20views&color=0e75b6&style=flat" alt="kumarnurav9811" /> </p>
