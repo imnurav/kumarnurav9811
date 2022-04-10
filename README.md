@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarnurav9811&theme=merko" alt="kumarnurav9811" /></a> </p>
 <br>
-<p align="center"> <a href="https://twitter.com/varun9873" target="blank"><img src="https://img.shields.io/twitter/follow/varun9873?logo=twitter&style=for-the-badge" alt="varun9873" /></a> </p><br>
+<p align="center"> <a href="https://twitter.com/_nurav" target="blank"><img src="https://img.shields.io/twitter/follow/_nurav?logo=twitter&style=for-the-badge" alt="_nurav" /></a> </p><br>
 
 - 🔭 I’m currently working on **Something great , Will let you know soon....**
 
@@ -31,8 +31,8 @@
 <br><br>
 <h3 align="center">Connect with me:</h3><br>
 <p align="center">
-<a href="https://twitter.com/varun9873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varun9873" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/varun-kumar-0833621a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-kumar-0833621a1" height="30" width="40" /></a>
+<a href="https://twitter.com/_nurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nurav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imnurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imnurav" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17070581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17070581" height="30" width="40" /></a>
 <a href="https://fb.com/varun.kumar9811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="varun.kumar9811" height="30" width="40" /></a>
 <a href="https://instagram.com/__v.a.r.u.n___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__v.a.r.u.n___" height="30" width="40" /></a>
