@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarnurav9811&theme=merko" alt="kumarnurav9811" /></a> </p>
 <br>
-<p align="center"> <a href="https://twitter.com/_nurav" target="blank"><img src="https://img.shields.io/twitter/follow/_nurav?logo=twitter&style=for-the-badge" alt="_nurav" /></a> </p><br>
+<p align="center"> <a href="https://twitter.com/iamnurav" target="blank"><img src="https://img.shields.io/twitter/follow/_nurav?logo=twitter&style=for-the-badge" alt="_nurav" /></a> </p><br>
 
 - 🔭 I’m currently working on **Something great , Will let you know soon....**
 
@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **not right now but whenever i need i'll put it on my profile.**
 
-- 👨‍💻 All of my projects are available at [https://nurav.herokuapp.com/](https://nurav.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://nurav.herokuapp.com/](https://nuravji.netlify.com/)
 
 - 💬 Ask me about **Reacts.js , Python ,C++**
 
