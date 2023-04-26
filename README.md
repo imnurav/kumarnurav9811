@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarnurav9811&theme=merko" alt="kumarnurav9811" /></a> </p>
 <br>
-<p align="center"> <a href="https://twitter.com/iamnurav" target="blank"><img src="https://img.shields.io/twitter/follow/_nurav?logo=twitter&style=for-the-badge" alt="_nurav" /></a> </p><br>
+<p align="center"> <a href="https://twitter.com/iamnurav" target="blank"><img src="https://img.shields.io/twitter/follow/iamnurav?logo=twitter&style=for-the-badge" alt="iamnurav" /></a> </p><br>
 
 - 🔭 I’m currently working on **Something great , Will let you know soon....**
 
@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nurav.herokuapp.com/](https://nuravji.netlify.com/)
 
-- 💬 Ask me about **Reacts.js , Python ,C++**
+- 💬 Ask me about **Reacts.js ,Next.js ,React Native, C++, Python**
 
 - 📫 How to reach me **kumarvarun9811@gmail.com**
 
@@ -31,11 +31,11 @@
 <br><br>
 <h3 align="center">Connect with me:</h3><br>
 <p align="center">
-<a href="https://twitter.com/_nurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nurav" height="30" width="40" /></a>
+<a href="https://twitter.com/iamnurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamnurav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imnurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imnurav" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17070581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17070581" height="30" width="40" /></a>
 <a href="https://fb.com/varun.kumar9811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="varun.kumar9811" height="30" width="40" /></a>
-<a href="https://instagram.com/__v.a.r.u.n___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__v.a.r.u.n___" height="30" width="40" /></a>
+<a href="https://instagram.com/n.u.r.a.v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n.u.r.a.v" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kumarvarun9811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kumarvarun9811" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kumarnurav9811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kumarnurav9811" height="30" width="40" /></a>
 </p>
