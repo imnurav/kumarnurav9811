@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **not right now but whenever i need i'll put it on my profile.**
 
-- 👨‍💻 All of my projects are available at [https://nurav.herokuapp.com/](https://nuravji.netlify.com/)
+- 👨‍💻 All of my projects are available at [https://nuravji.netlify.com/](https://nuravji.netlify.com/)
 
 - 💬 Ask me about **Reacts.js ,Next.js ,React Native, C++, Python**
 
